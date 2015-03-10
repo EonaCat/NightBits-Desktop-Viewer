@@ -1,0 +1,5 @@
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsNetwork.Streaming\obj\Debug\ResolveAssemblyReference.cache
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsNetwork.Streaming\bin\Debug\NightBitsNetwork.Streaming.dll
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsNetwork.Streaming\bin\Debug\NightBitsNetwork.Streaming.pdb
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsNetwork.Streaming\obj\Debug\NightBitsNetwork.Streaming.dll
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsNetwork.Streaming\obj\Debug\NightBitsNetwork.Streaming.pdb

@@ -1,0 +1,10 @@
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\bin\Debug\NightBitsDesktopViewer.exe
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\bin\Debug\NightBitsDesktopViewer.pdb
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\obj\Debug\ResolveAssemblyReference.cache
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\obj\Debug\NightBitsDesktopViewer.Form1.resources
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\obj\Debug\NightBitsDesktopViewer.Properties.Resources.resources
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\obj\Debug\NightBitsDesktopViewer.csproj.GenerateResource.Cache
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\obj\Debug\NightBitsDesktopViewer.exe
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\obj\Debug\NightBitsDesktopViewer.pdb
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\bin\Debug\NightBitsNetwork.Streaming.dll
+U:\Development\Projects\VS 2008\Projects\NightBitsDesktopViewer\NightBitsDesktopViewer\bin\Debug\NightBitsNetwork.Streaming.pdb

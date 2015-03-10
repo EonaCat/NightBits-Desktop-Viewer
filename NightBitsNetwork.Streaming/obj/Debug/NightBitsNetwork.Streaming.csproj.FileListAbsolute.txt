@@ -1,0 +1,5 @@
+J:\Desktop\NightBits Desktop Viewer\NightBitsNetwork.Streaming\bin\Debug\NightBitsNetwork.Streaming.dll
+J:\Desktop\NightBits Desktop Viewer\NightBitsNetwork.Streaming\bin\Debug\NightBitsNetwork.Streaming.pdb
+J:\Desktop\NightBits Desktop Viewer\NightBitsNetwork.Streaming\bin\Debug\NightBitsLibrary.dll
+J:\Desktop\NightBits Desktop Viewer\NightBitsNetwork.Streaming\obj\Debug\NightBitsNetwork.Streaming.dll
+J:\Desktop\NightBits Desktop Viewer\NightBitsNetwork.Streaming\obj\Debug\NightBitsNetwork.Streaming.pdb
